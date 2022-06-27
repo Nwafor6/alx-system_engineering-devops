@@ -1,4 +1,0 @@
-cgroup.procs
-cgroup.threads
-cgroup.subtree_control
-memory.oom.group
