@@ -1,3 +1,14 @@
-i am a bo
-my name is glory
-i dont like school
+total 40
+drwxr-xr-x 2 root root 211 Jun 29 00:00 .
+drwxr-xr-x 6 root root 247 Jun 28 22:00 ..
+-rwxr-xr-x 1 root root  30 Jun 28 22:37 0-hello_world
+-rwxr-xr-x 1 root root  28 Jun 28 22:53 1-confused_smiley
+-rwxr-xr-x 1 root root  29 Jun 28 23:07 2-hellofile
+-rwxr-xr-x 1 root root  39 Jun 28 23:10 3-twofiles
+-rwxr-xr-x 1 root root  35 Jun 28 23:18 4-lastlines
+-rwxr-xr-x 1 root root  35 Jun 28 23:20 5-firstlines
+-rwxr-xr-x 1 root root  42 Jun 28 23:33 6-third_line
+-rwxr-xr-x 1 root root  79 Jun 29 00:00 7-file
+-rw-r--r-- 1 root root  38 Jun 28 23:54 \*\'Best
+-rw-r--r-- 1 root root   0 Jun 29 00:03 file.txt
+-rw-r--r-- 1 root root  25 Jun 28 22:08 README.md
