@@ -12,3 +12,4 @@ drwxr-xr-x 6 root root 247 Jun 28 22:00 ..
 -rw-r--r-- 1 root root  38 Jun 28 23:54 \*\'Best
 -rw-r--r-- 1 root root   0 Jun 29 00:03 file.txt
 -rw-r--r-- 1 root root  25 Jun 28 22:08 README.md
+-rw-r--r-- 1 root root 25 Jun 28 22:08 README.md
